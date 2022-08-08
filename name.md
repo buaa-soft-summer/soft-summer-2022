@@ -25,7 +25,7 @@
 | 王子懿 | echo17666 |  |
 | 潘语依 | anui0115 |  |
 | 李昊 | LLLeoLi |  |
-| 刘源森 | Yuan-Hou |  |
+| 刘源森 | Yuan-Hou | PyQt,WPF,Pytorch |
 | 吕双羽 | zeroEuphemia |  |
 | 包新蕾 | leileidesu |  |
 | 赖榆人 | fish-heshui |  |

@@ -22,7 +22,7 @@
 |----------|-------------|----------|
 | 陈忠智   | jongjyh    | AI,Pytorch |
 | 许航 | woarthur |  |
-| 王子懿 | echo17666 |  |
+| 王子懿 | echo17666 | Web Frontend,Pygame |
 | 潘语依 | anui0115 |  |
 | 李昊 | LLLeoLi |  |
 | 刘源森 | Yuan-Hou | PyQt,WPF,Pytorch |

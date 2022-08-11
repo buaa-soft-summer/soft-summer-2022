@@ -23,10 +23,10 @@
 | 陈忠智   | jongjyh    | AI,Pytorch |
 | 许航 | woarthur | Wpf,Winform,Gameplay |
 | 王子懿 | echo17666 | Web Frontend,Pygame |
-| 潘语依 | anui0115 |  |
+| 潘语依 | anui0115 | Web Frontend, 微信小程序 |
 | 李昊 | LLLeoLi | Web Frontend |
 | 刘源森 | Yuan-Hou | PyQt,WPF,Pytorch |
-| 吕双羽 | zeroEuphemia |  |
-| 包新蕾 | leileidesu |  |
+| 吕双羽 | zeroEuphemia | PyQt, Web Frontend |
+| 包新蕾 | leileidesu | Web Frontend, 微信小程序 |
 | 赖榆人 | fish-heshui | Web Backend,Pytorch |
 | 周洪熙 | RyouonRitsu | Web Backend, Unity |

@@ -28,5 +28,5 @@
 | 刘源森 | Yuan-Hou | PyQt,WPF,Pytorch |
 | 吕双羽 | zeroEuphemia |  |
 | 包新蕾 | leileidesu |  |
-| 赖榆人 | fish-heshui |  |
+| 赖榆人 | fish-heshui |  | Web Backend,Pytorch
 | 周洪熙 | RyouonRitsu | Web Backend, Unity |
